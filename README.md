@@ -34,7 +34,7 @@ Devices & Equipments:
 
 
 Team Members:
-1. M.M. Kabid Hasan
+1. M. M. Kabid Hasan
    2019331053
    CSE, SUST 
 2. Md. Tahsinul Islam
