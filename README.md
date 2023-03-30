@@ -9,6 +9,7 @@ Description:
 In this sophisticated world, security has always been a concerning issue. Everyday security technologies are getting updated, but so does the complication of numerous threats. Therefore, we thought of introducing IOT at the rescue of residential security issues.
 
 
+
 Features:
 1. Door lock and unlock operation over the  internet.
 2. Visitor Doorstep real-time alert with image.
@@ -33,7 +34,7 @@ Devices & Equipments:
 
 
 Team Members:
-1. M.M. Kabid Hasan
+1. M. M. Kabid Hasan
    2019331053
    CSE, SUST 
 2. Md. Tahsinul Islam
